@@ -104,7 +104,7 @@
   },
 </code></pre>
 <h2 id="selfie_img">selfie_img</h2>
-<p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true</p>
+<p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true ,es necesario que se descargue la imagen ya que esta URL tiene tiempo de Vida no superior a 12 horas.</p>
 <h2 id="selfie_img_check">selfie_img_check</h2>
 <p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true</p>
 
