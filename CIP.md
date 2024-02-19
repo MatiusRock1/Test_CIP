@@ -5,7 +5,7 @@
 
 <h1 id="cip-workflow-webhook-example">CIP workflow webhook example</h1>
 
-validateSelfie es False por defecto, para asegurar retrocompatibilidad
+
 <p>Cases</p>
 
 <table>
@@ -61,16 +61,6 @@ validateSelfie es False por defecto, para asegurar retrocompatibilidad
 <td>T/f</td>
 <td>T/F</td>
 <td>False</td>
-</tr>
-<tr>
-<td>validateSelfie </td>
-<td>False</td> 
-<td>False</td>
-<td>False</td>
-<td>T/F</td>
-<td>False</td>
-<td>False</td>
-<td>T/F</td>
 </tr>
 <tr>
 <td>referenceImage</td>
@@ -860,5 +850,6 @@ validateSelfie es False por defecto, para asegurar retrocompatibilidad
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYyNzA3NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwODEwNTYyOTUsLTE0ODYyNzA3NDFdfQ
+==
 -->
