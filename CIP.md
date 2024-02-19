@@ -6,6 +6,7 @@
 <h1 id="cip-workflow-webhook-example">CIP workflow webhook example</h1>
 
 Variables para callback messages.
+
 "callbackUrl" : "www.google.com",
 
 "callbackUrlText" : "this is a callback url ok",
@@ -858,6 +859,6 @@ Variables para callback messages.
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTU0MjE2OCwtMjA4MTA1NjI5NSwtMT
+eyJoaXN0b3J5IjpbMTUzNDQyNDA1OCwtMjA4MTA1NjI5NSwtMT
 Q4NjI3MDc0MV19
 -->
