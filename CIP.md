@@ -7,8 +7,11 @@
 
 Variables para callback messages.
 "callbackUrl" : "www.google.com",
+
 "callbackUrlText" : "this is a callback url ok",
+
 "callbackUrlError": "www.google.com/error",
+
 "callBackUrlTextError" : "this is a callback url error",
 
 <p>Cases</p>
@@ -855,6 +858,6 @@ Variables para callback messages.
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTk4NjQ5MCwtMjA4MTA1NjI5NSwtMT
+eyJoaXN0b3J5IjpbLTkzNTU0MjE2OCwtMjA4MTA1NjI5NSwtMT
 Q4NjI3MDc0MV19
 -->
