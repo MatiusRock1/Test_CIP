@@ -5,7 +5,7 @@
 
 <h1 id="cip-workflow-webhook-example">CIP workflow webhook example</h1>
 
-Variables para callback messages.
+Variables para callback messages.opcionales, para uso de mensajes para el usuario, tanto en exito como en error
 
 "callbackUrl" : "www.google.com",
 
@@ -859,6 +859,6 @@ Variables para callback messages.
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDQyNDA1OCwtMjA4MTA1NjI5NSwtMT
+eyJoaXN0b3J5IjpbMTE1MjMzMjQxMSwtMjA4MTA1NjI5NSwtMT
 Q4NjI3MDc0MV19
 -->
