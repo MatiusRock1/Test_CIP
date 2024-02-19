@@ -62,13 +62,13 @@
 </tr>
 <tr>
 <td>validateSelfie False por defecto False</td>
-<td>Default</td> 
+<td>False</td> 
+<td>False</td>
 <td>False</td>
 <td>T/F</td>
-<td>T/F</td>
-<td>T/f</td>
-<td>T/F</td>
 <td>False</td>
+<td>False</td>
+<td>T/F</td>
 </tr>
 <tr>
 <td>referenceImage</td>
@@ -858,5 +858,5 @@
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgyNDA3MDRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTMwNzUxMThdfQ==
 -->
