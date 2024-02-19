@@ -61,8 +61,8 @@
 <td>False</td>
 </tr>
 <tr>
-<td>validateIdName</td>
-<td>False</td>
+<td>validateSelfie False por defecto False</td>
+<td>Default</td> 
 <td>False</td>
 <td>T/F</td>
 <td>T/F</td>
@@ -70,7 +70,6 @@
 <td>T/F</td>
 <td>False</td>
 </tr>
-
 <tr>
 <td>referenceImage</td>
 <td>Exist</td>
@@ -859,5 +858,5 @@
 </code></pre>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjE3NjA4MV19
+eyJoaXN0b3J5IjpbLTEyMjgyNDA3MDRdfQ==
 -->
