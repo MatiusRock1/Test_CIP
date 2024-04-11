@@ -108,3 +108,6 @@
 <h2 id="selfie_img_check">selfie_img_check</h2>
 <p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTM3NDU5MzddfQ==
+-->
