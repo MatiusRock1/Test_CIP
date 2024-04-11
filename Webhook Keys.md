@@ -109,6 +109,11 @@
 <p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true</p>
 <h2 id="selfie_img_check">pol_error</h2>
 <p>Este parámetro llega si POL de Iproov existe algun error</p>
+the reason have the error cause, the possible values are:
+   <p>- already_enrolled : the user is already enrolled</p>
+    <p>- ERROR_MAX_ENROL_ATTEMPS_REACHED : the user reach the max attemps to enroll in this case is 3</p>
+    <p>- ERROR_MAX_VERIFY_ATTEMPS_REACHED : the user reach the max attemps to verify in this case is 3</p>
+    <p>- UNKNOWN_ERROR : the error is unknown</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3Njg4MDIzXX0=
+eyJoaXN0b3J5IjpbMTkwODk4NzI4MSw5Njc2ODgwMjNdfQ==
 -->
