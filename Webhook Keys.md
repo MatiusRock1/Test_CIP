@@ -112,8 +112,8 @@
 the reason have the error cause, the possible values are:
    <p>- already_enrolled : the user is already enrolled</p>
     <p>- ERROR_MAX_ENROL_ATTEMPS_REACHED : the user reach the max attemps to enroll in this case is 3</p>
-    <p>- ERROR_MAX_VERIFY_ATTEMPS_REACHED : the user reach the max attemps to verify in this case is 3</p>
     <p>- UNKNOWN_ERROR : the error is unknown</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODk4NzI4MSw5Njc2ODgwMjNdfQ==
+eyJoaXN0b3J5IjpbOTcxNjE2NjU0LDE5MDg5ODcyODEsOTY3Nj
+g4MDIzXX0=
 -->
