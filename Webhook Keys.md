@@ -107,7 +107,8 @@
 <p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true ,es necesario que se descargue la imagen ya que esta URL tiene tiempo de Vida no superior a 12 horas.</p>
 <h2 id="selfie_img_check">selfie_img_check</h2>
 <p>Este parámetro llega si en el servicio nos indicaron que se debía realizar el proceso, “requestSelfie”: true</p>
-
+<h2 id="selfie_img_check">pol_error</h2>
+<p>Este parámetro llega si POL de Iproov existe algun error</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3NDU5MzddfQ==
+eyJoaXN0b3J5IjpbOTY3Njg4MDIzXX0=
 -->
